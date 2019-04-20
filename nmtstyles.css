@@ -32,6 +32,10 @@
 }
 
 #nmt {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 20vh;
   margin: 0 auto;
   text-align: center;
   padding: 2rem 2rem 3rem 2rem;
